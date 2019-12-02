@@ -7,9 +7,10 @@ FIFA_Bokeh_study
 #####  |   +--- FIFA_1112.csv
 #####  |
 #####  +--- scripts
-#####  |   +--- plot.py
-#####  |   +--- plot2.py
-#####  |
+#####  |   +--- density.py
+#####  |   +--- histogram.py
+#####  |   +--- routes.py
+#####  |   +--- table.py
 #####  +--- main.py
 
 
