@@ -5,7 +5,6 @@ FIFA_Bokeh_study
 #####  |
 #####  +--- data
 #####  |   +--- FIFA_1112.csv
-#####  |   +--- info2.csv
 #####  |
 #####  +--- scripts
 #####  |   +--- plot.py
