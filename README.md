@@ -17,4 +17,4 @@ FIFA_Bokeh_study
 ## To run the full application for yourself, 
 ## make sure you have Bokeh installed ( using pip install bokeh), 
 ## download the bokeh_app.zip folder from GitHub, unzip it, 
-## open a command window in the directory, and type bokeh serve --show bokeh_app. 
+## open a command window in the directory, and type bokeh serve --show bokeh_app
