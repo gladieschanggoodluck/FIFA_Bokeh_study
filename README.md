@@ -1,17 +1,17 @@
 # FIFA_Bokeh_study
 FIFA_Bokeh_study
 
-# bokeh_app
-# |
-# +--- data
-# |   +--- FIFA_1112.csv
-# |   +--- info2.csv
-# |
-# +--- scripts
-# |   +--- plot.py
-# |   +--- plot2.py
-# |
-# +--- main.py
+#####  bokeh_app
+#####  |
+#####  +--- data
+#####  |   +--- FIFA_1112.csv
+#####  |   +--- info2.csv
+#####  |
+#####  +--- scripts
+#####  |   +--- plot.py
+#####  |   +--- plot2.py
+#####  |
+#####  +--- main.py
 
 
 ## To run the full application for yourself, 
